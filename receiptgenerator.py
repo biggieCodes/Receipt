@@ -13,7 +13,7 @@ DATA = [
 		"Birthday shoot", 
 		"10,999.00/-", 
 	], 
-	[ "16/11/2023", "Biggies Classes: Live Session", "6 months", "9,999.00/-"], 
+	[ "16/11/2023", "Biggies Classes: Live Session", "3 months", "9,999.00/-"], 
 	[ "Sub Total", "", "", "20,9998.00/-"], 
 	[ "Discount", "", "", "-3,000.00/-"], 
 	[ "Total", "", "", "17,998.00/-"], 
